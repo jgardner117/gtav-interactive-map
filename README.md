@@ -1,5 +1,6 @@
 ## Grand Theft Auto V Interactive Map
 https://hateph34r.github.io/gtav-interactive-map/
+
 The Grand Theft Auto V Interactive Map is a single page web application that displays *most* of the activities, stores, safehouses, and more in Grand Theft Auto V's fictional city of Los Santos. All of the points were georeferenced using the in-game map found in the pause menu, and each point displays a screenshot captured from the game relating to the Point of Interest.
 
 The mapping library used is [Leaflet](https://leafletjs.com/). The points are stored as GeoJSON files with one file corresponding to each layer. Each GeoJSON feature has a property called *imgname* that stores the location of the screenshot that corresponds to that point.

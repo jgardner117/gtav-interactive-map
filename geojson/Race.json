@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stunt Plane Time Trial",
+        "imgname":"images/race/stuntplane.jpg",
+        "ptype": "Race"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4872.5, 4832.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raton Canyon Offroad Moto/ATV Race",
+        "imgname":"images/race/ratoncanyon.jpg",
+        "ptype": "Race"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2473.625, 5596.5]
+      }
+    }
+  ]
+}

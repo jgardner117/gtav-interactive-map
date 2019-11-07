@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beeker's Garage",
+        "imgname":"images/repairshop/beekers.png",
+        "ptype": "Repair Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3830, 7034.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Santos International Airport Los Santos Customs",
+        "imgname":"images/repairshop/lossantos.png",
+        "ptype": "Repair Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3004.25, 1346.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Mesa Los Santos Customs",
+        "imgname":"images/repairshop/lamesa.png",
+        "ptype": "Repair Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4236.25, 1950.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burton Los Santos Customs",
+        "imgname":"images/repairshop/burton.png",
+        "ptype": "Repair Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3523.75, 2577.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harmony Los Santos Customs",
+        "imgname":"images/repairshop/harmony.png",
+        "ptype": "Repair Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4535.5, 4408.5]
+      }
+    }
+  ]
+}

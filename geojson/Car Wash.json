@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hands On Car Wash",
+        "imgname":"images/carwash/carwashstrawberry.png",
+        "ptype": "Car Wash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3790.625, 1749.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Seoul Car Wash",
+        "imgname":"images/carwash/littleseoul.png",
+        "ptype": "Car Wash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3294.5, 2057.625]
+      }
+    }
+  ]
+}

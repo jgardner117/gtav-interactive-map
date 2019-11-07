@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blazing Tattoo",
+        "imgname":"images/tattooparlor/blazingvinewood.jpg",
+        "ptype": "Tattoo Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3970.25, 2789.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alamo Tattoo Studio",
+        "imgname":"images/tattooparlor/alamo.jpg",
+        "ptype": "Tattoo Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4985, 5140.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paleto Tattoo",
+        "imgname":"images/tattooparlor/paletotattoo.jpg",
+        "ptype": "Tattoo Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3561.75, 6757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pit Tattoo Parlor",
+        "imgname":"images/tattooparlor/thepit.jpg",
+        "ptype": "Tattoo Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2994, 1731.85]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ink Inc Tattoo Parlor",
+        "imgname":"images/tattooparlor/inkinc.jpg",
+        "ptype": "Tattoo Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1665.25, 3378.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Santos Tattoos",
+        "imgname":"images/tattooparlor/lossantostattoo.jpg",
+        "ptype": "Tattoo Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4628.5, 1583]
+      }
+    }
+  ]
+}

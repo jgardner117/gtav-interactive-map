@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oriental Theater",
+        "imgname":"images/theater/oriental.png",
+        "ptype": "Movie Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3939.5, 2802.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tivoli Cinema",
+        "imgname":"images/theater/tivoli.png",
+        "ptype": "Movie Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2816.5, 2529.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ten Cent Theater",
+        "imgname":"images/theater/tencent.png",
+        "ptype": "Movie Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4011, 2198.5]
+      }
+    }
+  ]
+}

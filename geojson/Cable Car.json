@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Chiliad Cable Car (Top)",
+        "imgname":"images/cablecar/cablecar.jpg",
+        "ptype": "Cable Car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4053, 6336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Andreas Cable Car (Bottom)",
+        "imgname":"images/cablecar/cablecar.jpg",
+        "ptype": "Cable Car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3269.75, 6360.5]
+      }
+    }
+  ]
+}

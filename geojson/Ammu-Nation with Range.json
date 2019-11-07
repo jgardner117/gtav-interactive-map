@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downtown Los Santos Ammu-Nation",
+        "imgname":"images/ammunation/downtownlossantos.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3768.25, 1937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cypress Flats Ammu-Nation",
+        "imgname":"images/ammunation/cypressflats.png",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4290.5, 1249]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferris Whale (Ferris Wheel)",
+        "imgname":"images/fairride/fair.jpg",
+        "ptype": "Fair Ride"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2662, 1925.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leviathan (Rollercoaster)",
+        "imgname":"images/fairride/fair.jpg",
+        "ptype": "Fair Ride"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2666.25, 1918]
+      }
+    }
+  ]
+}

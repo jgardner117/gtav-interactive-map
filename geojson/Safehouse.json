@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trevor's House",
+        "imgname":"images/safehouse/trevor.png",
+        "ptype": "Safehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5057, 5180.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michael's House",
+        "imgname":"images/safehouse/michael.png",
+        "ptype": "Safehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3221,2778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franklin's House",
+        "imgname":"images/safehouse/franklin.jpg",
+        "ptype": "Safehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3716,1713]
+      }
+    }
+  ]
+}

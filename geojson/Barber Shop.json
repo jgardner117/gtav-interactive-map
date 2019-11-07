@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "name": "Bob Mulét Barbershop",
+        "imgname":"images/barbershop/bobmulet.jpg",
+        "ptype": "Barber Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3217, 2545.5]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Herr Kutz Barber",
+        "imgname":"images/barbershop/davisherrkutz.jpg",
+        "ptype": "Barber Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3845.5, 1541.75]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Beach Combover Barbers",
+        "imgname":"images/barbershop/beachcombover.png",
+        "ptype": "Barber Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2907.375, 1934.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O'Sheas Barbers Shop",
+        "imgname":"images/barbershop/osheas.jpg",
+        "ptype": "Barber Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5032, 5122.875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herr Kutz Barber",
+        "imgname":"images/barbershop/mirrorparkherrkutz.jpg",
+        "ptype": "Barber Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4554.5, 2353.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hair on Hawick",
+        "imgname":"images/barbershop/haironhawick.jpg",
+        "ptype": "Barber Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3731.5, 2569.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herr Kutz Barber",
+        "imgname":"images/barbershop/mirrorparkherrkutz.jpg",
+        "ptype": "Barber Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3573.75, 6777]
+      }
+    }
+  ]
+}

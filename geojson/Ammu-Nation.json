@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "name": "Sandy Shores Ammu-Nation",
+        "imgname":"images/ammunation/sandyshores.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4873.25, 5146.75]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawick Ammu-Nation",
+        "imgname":"images/ammunation/hawick.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3921, 2638.5]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "La Mesa Ammu-Nation",
+        "imgname":"images/ammunation/lamesa.png",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4312.125, 1992.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paleto Bay Ammu-Nation",
+        "imgname":"images/ammunation/paletobay.png",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3539.75, 6678.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Seoul Ammu-Nation",
+        "imgname":"images/ammunation/littleseoul.png",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3314.5, 2048.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morningwood Ammu-Nation",
+        "imgname":"images/ammunation/morningwood.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2890.75, 2409.875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Chapparal River Ammu-Nation",
+        "imgname":"images/ammunation/greatchapparal.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3012, 4430]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chumash Ammu-Nation",
+        "imgname":"images/ammunation/chumash.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1666.65, 3382.625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tataviam Mountains Ammu-Nation",
+        "imgname":"images/ammunation/tataviammountains.png",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5451.625, 2869.25]
+      }
+    }
+  ]
+}

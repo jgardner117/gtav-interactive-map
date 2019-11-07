@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Santos Golf Club",
+        "imgname":"images/golf/golf.jpg",
+        "ptype": "Golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2863, 2706.75]
+      }
+    }
+  ]
+}

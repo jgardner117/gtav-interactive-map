@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "name": "Mission Row Binco Clothing",
+        "imgname":"images/clothing/missionrow.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4036, 2137.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vespucci Canals Binco Clothing",
+        "imgname":"images/clothing/vespuccicanals.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3216, 1961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vespucci Movie Masks",
+        "imgname":"images/clothing/moviemasks.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2880, 1827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strawberry Discount Clothing",
+        "imgname":"images/clothing/strawberry.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3809.5, 1749.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grapeseed Discount Clothing",
+        "imgname":"images/clothing/grapeseed.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4870.25, 5847.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Chaparral Discount Clothing",
+        "imgname":"images/clothing/greatchaparral.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3032, 4448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harmony Discount Clothing",
+        "imgname":"images/clothing/harmonydiscount.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4545.5, 4452.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paleto Bay Discount Clothing",
+        "imgname":"images/clothing/paletobay.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3758.25, 6962.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Del Perro Suburban Clothing",
+        "imgname":"images/clothing/delperro.jpg",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2961, 2158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harmony Suburban Clothing",
+        "imgname":"images/clothing/harmony.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4163.5, 4481.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawick Suburban Clothing",
+        "imgname":"images/clothing/hawick.jpg",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3841.5, 2527.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chumash Suburban Clothing",
+        "imgname":"images/clothing/chumash.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1666.875, 3366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockford Hills Ponsonbys Clothing",
+        "imgname":"images/clothing/rockfordhills.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3285, 2565.625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morningwood Ponsonbys Clothing",
+        "imgname":"images/clothing/morningwood.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2810, 2490]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burton Ponsonbys Clothing",
+        "imgname":"images/clothing/burton.png",
+        "ptype": "Clothing Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3650.75, 2469.25]
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandy Shores Airfield",
+        "imgname":"images/hangerhelipad/sandyshores.jpg",
+        "ptype": "Hanger/Helipad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4900, 4844.25]
+      }
+    }
+  ]
+}

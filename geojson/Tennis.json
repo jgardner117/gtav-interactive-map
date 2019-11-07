@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vespucci Beach Tennis Courts",
+        "imgname":"images/tennis/tennis.jpg",
+        "ptype": "Tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2986.5, 1600]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michael's Tennis Courts",
+        "imgname":"images/tennis/rockford.jpg",
+        "ptype": "Tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3251, 2772.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinewood Apartments Tennis Courts",
+        "imgname":"images/tennis/tennis.jpg",
+        "ptype": "Tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4076, 2529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richman Hotel Tennis Courts",
+        "imgname":"images/tennis/richman.png",
+        "ptype": "Tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2960, 2880.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "USLA Tennis Courts",
+        "imgname":"images/tennis/usla.png",
+        "ptype": "Tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2684, 2845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weazel Tennis Courts",
+        "imgname":"images/tennis/tennis.jpg",
+        "ptype": "Tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2853.75, 2596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chumash Hotel Tennis Courts",
+        "imgname":"images/tennis/chumash.jpg",
+        "ptype": "Tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1862, 2681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vespucci Apartment Tennis Courts",
+        "imgname":"images/tennis/tennis.jpg",
+        "ptype": "Tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3139.75, 1840.5]
+      }
+    }
+  ]
+}

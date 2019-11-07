@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanilla Unicorn",
+        "imgname":"images/stripclub/stripclub.png",
+        "ptype": "Strip Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3844, 1816]
+      }
+    }
+  ]
+}

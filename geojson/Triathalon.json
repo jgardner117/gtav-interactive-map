@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vespucci Beach Triathlon",
+        "imgname":"images/triathalon/triathalon.jpg",
+        "ptype": "Triathalon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2938.5, 1313.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alamo Sea Triathlon",
+        "imgname":"images/triathalon/triathalon.jpg",
+        "ptype": "Triathalon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5358,5521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coyote Cross Country Triathlon",
+        "imgname":"images/triathalon/triathalon.jpg",
+        "ptype": "Triathalon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4807,5181]
+      }
+    }
+  ]
+}

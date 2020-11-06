@@ -1,5 +1,5 @@
 ## Grand Theft Auto V Interactive Map
-https://hateph34r.github.io/gtav-interactive-map/
+https://jgardner117.github.io/gtav-interactive-map/
 
 The Grand Theft Auto V Interactive Map is a single page web application that displays *most* of the activities, stores, safehouses, and more in Grand Theft Auto V's fictional city of Los Santos. All of the points were georeferenced using the in-game map found in the pause menu, and each point displays a screenshot captured from the game relating to the Point of Interest.
 
@@ -15,7 +15,7 @@ I created this single page application specifically to be stored and used on Git
 * Potentially create Geoserver instance to serve tiles and WFS to improve loading times
 
 ## Authors
-* **Jesse Gardner** - *Creator* - [Github](https://github.com/HatePH34R)
+* **Jesse Gardner** - *Creator* - [Github](https://github.com/jgardner117)
 
 
 ## Acknowledgements/Copyright information
